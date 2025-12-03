@@ -17,9 +17,6 @@ opc-scada-server/
 ├── CMakeLists.txt           # CMake-конфигурация сборки
 └── README.md
 
-<img width="971" height="585" alt="{6683BE47-0F80-4C05-9EEF-595731C34A3D}" src="https://github.com/user-attachments/assets/08ad02b9-2cc3-4cab-9924-f0826fb93410" />
-
-
 1. Установка OPC UA сервера на Linux
    Требоввания:
    
