@@ -19,27 +19,40 @@ opc-scada-server/
 
 1. Установка OPC UA сервера на Linux
    Требоввания:
+   
    sudo apt-get update
+   
    sudo apt-get install -y git build-essential cmake
 
    Сборка:
+   
    git clone https://github.com/ExIntegra/opc-scada-server.git
+   
    cd opc-scada-server
+   
    mkdir build
+   
    cd build
+   
    cmake ..
+   
    cmake --build .
 
    Запуск:
+   
    ./opc_server
 
    endpoint сервера:
+   
    opc.tcp://localhost:4840
 
-2. Установка OPC UA сервера на Windows
+3. Установка OPC UA сервера на Windows
    Требования:
+   
     - Visual Studio 2019/2022 (Desktop development with C++)
+
     - CMake 3.16+
+      
     - Git for Windows
 
    Сборка:
@@ -54,7 +67,7 @@ opc-scada-server/
    Запуск:
    .\build\Release\opc_server.exe
 
-3. Установка и настройка Ignition 8.1
+5. Установка и настройка Ignition 8.1
    Шаг 1. Установка Ignition
    Скачать Ignition 8.1 для Windows/Linux:
    https://inductiveautomation.com/downloads
@@ -63,7 +76,7 @@ opc-scada-server/
    После запуска перейти в браузере на:
    http://localhost:8088
    
-5. Импорт SCADA-проекта в Ignition
+6. Импорт SCADA-проекта в Ignition
 
   Зайти в браузере в Gateway:
   http://localhost:8088
