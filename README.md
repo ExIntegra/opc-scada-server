@@ -8,6 +8,8 @@ OPC SCADA Server
 - работы промышленных протоколов (OPC UA),
 - моделирования технологических процессов,
 - настройки человеко-машинного интерфейса (HMI).
+  <img width="971" height="585" alt="{6683BE47-0F80-4C05-9EEF-595731C34A3D}" src="https://github.com/user-attachments/assets/d0283e15-ee54-47f1-953e-ea2619998b8c" />
+
 
 opc-scada-server/
 │
