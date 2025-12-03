@@ -9,7 +9,7 @@ OPC SCADA Server
 - моделирования технологических процессов,
 - настройки человеко-машинного интерфейса (HMI).
  
-<img width="571" height="185" alt="{6683BE47-0F80-4C05-9EEF-595731C34A3D}" src="https://github.com/user-attachments/assets/a42538a8-5f69-4fb7-ae15-ffa4ebb59b3d" />
+<img width="571" height="385" alt="{6683BE47-0F80-4C05-9EEF-595731C34A3D}" src="https://github.com/user-attachments/assets/a42538a8-5f69-4fb7-ae15-ffa4ebb59b3d" />
 <img width="523" height="383" alt="{85E4599C-50D9-4126-8D1D-E592E32093E4}" src="https://github.com/user-attachments/assets/09d5c9dc-62a9-4745-b7a7-31e855a783f1" />
 
 
