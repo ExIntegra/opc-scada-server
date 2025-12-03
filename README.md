@@ -9,13 +9,9 @@ OPC SCADA Server
 - моделирования технологических процессов,
 - настройки человеко-машинного интерфейса (HMI).
  
-opc-scada-server/
-│
-├── src/                     # Исходники OPC UA сервера
-├── external/open62541/      # Встроенная библиотека open62541
-├── IgnitionProject/         # Проект SCADA (Ignition 8.1)
-├── CMakeLists.txt           # CMake-конфигурация сборки
-└── README.md
+<img width="571" height="185" alt="{6683BE47-0F80-4C05-9EEF-595731C34A3D}" src="https://github.com/user-attachments/assets/a42538a8-5f69-4fb7-ae15-ffa4ebb59b3d" />
+<img width="523" height="383" alt="{85E4599C-50D9-4126-8D1D-E592E32093E4}" src="https://github.com/user-attachments/assets/09d5c9dc-62a9-4745-b7a7-31e855a783f1" />
+
 
 1. Установка OPC UA сервера на Linux
    Требоввания:
