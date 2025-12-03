@@ -1,0 +1,4 @@
+/home/exintegra/lab_scada/opc_server/build/external/open62541/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
+/home/exintegra/lab_scada/opc_server/build/external/open62541/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/home/exintegra/lab_scada/opc_server/build/external/open62541/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/home/exintegra/lab_scada/opc_server/build/external/open62541/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir
