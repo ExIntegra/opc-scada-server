@@ -69,7 +69,9 @@ opc-scada-server/
   http://localhost:8088
   В меню выбрать:
   Config → Projects → Import
+  
   Нажать Choose File
+  
   Выбрать файл:
   IgnitionProject/lab_scada_ignition_8_1.zip
   Нажать Import
